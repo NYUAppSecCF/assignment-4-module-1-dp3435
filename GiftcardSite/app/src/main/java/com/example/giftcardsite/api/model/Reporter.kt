@@ -19,7 +19,7 @@ class Reporter(private val token: String) {
     //override fun onLocationChanged(location: Location) {
         //var userInfoContainer = UserInfoContainer(location, null, token)
         //var builder: Retrofit.Builder = Retrofit.Builder().baseUrl("https://appsec.moyix.net").addConverterFactory(
-            GsonConverterFactory.create())
+            //GsonConverterFactory.create())
         //var retrofit: Retrofit = builder.build()
         //var client: UserInfo = retrofit.create(UserInfo::class.java)
         //client.postInfo(userInfoContainer, token)?.enqueue(object: Callback<User?> {
